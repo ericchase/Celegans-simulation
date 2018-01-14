@@ -6,7 +6,7 @@ The code here is not mine, and the patch work is up for grabs.
 
 I'd be happy to answer any questions related to the port, ask away.
 
-<br><br><br>
+<br><br>
 # From original readme:
 To 'turn on' the worm, hold the F key for few seconds.
 
@@ -18,7 +18,7 @@ You can control the simulation with the keyboard:
 <br> P = touch posterior
 <br> Q = quit
 
-
-Note from the editor:
+<br><br>
+## Note from the editor:
 <br>&nbsp;&nbsp;&nbsp;try out 'S'
 <br>&nbsp;&nbsp;&nbsp;it's pretty cool
