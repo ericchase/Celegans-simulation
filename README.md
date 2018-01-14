@@ -19,6 +19,6 @@ You can control the simulation with the keyboard:
 <br> Q = quit
 
 <br><br>
-## Note from the editor:
+### Note from the editor:
 &nbsp;&nbsp;&nbsp;try out 'S' <br>
 &nbsp;&nbsp;&nbsp;it's pretty cool
