@@ -21,5 +21,5 @@ Q = quit
 
 
 Note from the editor:
-  try out 'S'
-  it's pretty cool
+  <br> try out 'S'
+  <br> it's pretty cool
