@@ -20,5 +20,5 @@ You can control the simulation with the keyboard:
 
 <br><br>
 ## Note from the editor:
-<br>&nbsp;&nbsp;&nbsp;try out 'S'
-<br>&nbsp;&nbsp;&nbsp;it's pretty cool
+&nbsp;&nbsp;&nbsp;try out 'S' <br>
+&nbsp;&nbsp;&nbsp;it's pretty cool
