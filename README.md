@@ -2,9 +2,10 @@
 A terrible port to Windows under Visual Studio 2017
 
 Someone on Reddit asked for a port, and I was up for the challenge. <br>
-The code here is not mine, and the patch work is up for grabs.
+The original Celegans-simulation code belongs to Carlo Meroni.
+The patch work I offer is up for grabs.
 
-I'd be happy to answer any questions related to the port, ask away.
+I'd be happy to answer any questions related to this port.
 
 <br><br>
 # From original readme:
